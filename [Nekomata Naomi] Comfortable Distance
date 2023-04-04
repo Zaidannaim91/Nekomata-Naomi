@@ -1,0 +1,25 @@
+{
+   "title":"[Nekomata Naomi] Comfortable Distance",
+   "description":"",
+   "author":"Nekomata Naomi",
+   "artist":"Nekomata Naomi",
+   "cover":"https://i.imgur.com/CQREWly.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/vEZqJVE"
+         },
+         "last_updated":1624606143,
+         "title":"Comfortable Distance",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/CWry47o"
+         },
+         "last_updated":1624606143,
+         "title":"Fingertip Imbalance",
+         "volume":"2"
+      }
+   }
+}
